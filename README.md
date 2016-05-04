@@ -1,0 +1,2 @@
+# ReconocimientoFacialOpenCV
+proyecto de Matlab
